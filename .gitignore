@@ -104,3 +104,5 @@ ENV/
 .history
 .DS_Store
 datasets
+tf_logs
+logs
